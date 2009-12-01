@@ -9,7 +9,7 @@
 
   <genericsetup:registerProfile 
       name="default" 
-      title="jq history" 
+      title="collective.jqhistory"
       directory="profiles/default" 
       description="JQuery History Plugin"
       provides="Products.GenericSetup.interfaces.EXTENSION" 
