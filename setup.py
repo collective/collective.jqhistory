@@ -31,6 +31,6 @@ setup(name='collective.jqhistory',
       entry_points="""
       # -*- Entry points: -*-
       [z3c.autoinclude.plugin]
-      target = opengever
+      target = collective
       """,
       )
