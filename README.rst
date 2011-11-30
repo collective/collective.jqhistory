@@ -45,3 +45,7 @@ Links
 - ``collective.jqhistory`` on pypi: http://pypi.python.org/pypi/collective.jqhistory
 
 
+Maintainer
+==========
+
+This package is produced and maintained by `4teamwork <http://www.4teamwork.ch/>`_ company.
