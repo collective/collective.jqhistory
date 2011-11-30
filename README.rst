@@ -20,6 +20,22 @@ License
 GNU AFFERO GENERAL PUBLIC LICENSE, version 3.
 
 
+Usage
+-----
+
+- Add ``collective.jqhistory`` to your buildout:
+
+::
+
+    [instance]
+    eggs +=
+        ...
+        Plone
+        collective.jqhistory
+
+- Import the "collective.jqhistory" generic setup import step.
+
+
 Links
 -----
 
